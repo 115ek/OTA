@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1582132535",
-      "filename": "lineage-16.0-20200219-UNOFFICIAL-amami.zip",
-      "id": "ef9bdd34927f24d6ec2cd75b68a88ba4",
+      "datetime": "1584269494",
+      "filename": "lineage-17.1-20200315-UNOFFICIAL-amami-signed.zip",
+      "id": "1e2fce800b8f219912c5371e4562b620",
       "romtype": "UNOFFICIAL",
-      "size": "464132823",
-      "url": "https://sourceforge.net/projects/lin16/files/amami/LineageOS_16_signed/lineage-16.0-20200219-UNOFFICIAL-amami.zip/download",
-      "version": "16.0"
+      "size": "487473776",
+      "url": "https://sourceforge.net/projects/lin17/files/amami/LineageOS_17_signed/lineage-17.1-20200315-UNOFFICIAL-amami-signed.zip/download",
+      "version": "17.1"
     }
   ]
 }
